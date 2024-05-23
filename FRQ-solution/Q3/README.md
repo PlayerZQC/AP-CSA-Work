@@ -2,8 +2,8 @@
 - Part A is about is the next word contains the previous
 - Part B is about is the letter start from the front is equal to the target. If so, remove the word that equal to the target and store the rest into an arraylist
 ## Struggles with this question...
-- I was struggled at how to find weather the next word contains to the previous.
+- I was struggled at how to find whether the next word contains to the previous.
 ## Prior expereiences that helped...
-- IndexOf and compare helps me how to define the next weather contains the previous.
+- IndexOf and compare helps me to define whether the next word contains to the previous.
 ## What I learned by doing this question...
 - I learned about how to substring to store or check the words I want.
